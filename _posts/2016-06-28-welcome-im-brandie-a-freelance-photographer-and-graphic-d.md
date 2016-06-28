@@ -13,14 +13,14 @@ description: >-
   the photos below to browse the galleries and don't forget to 'like' us on
   Facebook! If you'd like to set up a photo-shoot for yourself or your event,
   please send me an email at
-datePublished: '2016-06-28T19:48:06.659Z'
-dateModified: '2016-06-28T19:47:44.293Z'
+datePublished: '2016-06-28T19:51:22.298Z'
+dateModified: '2016-06-28T19:48:10.991Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-28-welcome-im-brandie-a-freelance-photographer-and-graphic-d.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-28-welcome-im-brandie-a-freelance-photographer-and-graphic-d.md
 url: welcome-im-brandie-a-freelance-photographer-and-graphic-d/index.html
 _type: Article
 
