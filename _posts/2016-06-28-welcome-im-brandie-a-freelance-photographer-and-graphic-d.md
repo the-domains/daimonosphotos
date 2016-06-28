@@ -10,8 +10,8 @@ description: >-
   passion for creating art. I try to capture the beauty in everyday life;
   everything from performances and events, to helping families build precious
   memories to look over for generations to come. 
-datePublished: '2016-06-28T19:12:04.960Z'
-dateModified: '2016-06-28T19:10:32.989Z'
+datePublished: '2016-06-28T19:12:54.366Z'
+dateModified: '2016-06-28T19:12:13.258Z'
 author:
   - name: ''
     url: ''
