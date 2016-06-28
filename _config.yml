@@ -2,6 +2,7 @@ name: DaimonosPhotos
 favicon: null
 layout_spectrum: 0.23082303698174655
 typography_spectrum: 0.7736506087239832
+title: DaimonosPhotos
 cta:
   domain: null
   bucket: null
