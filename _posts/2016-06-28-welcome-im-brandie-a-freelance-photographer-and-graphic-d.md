@@ -10,9 +10,11 @@ description: >-
   passion for creating art. I try to capture the beauty in everyday life;
   everything from performances and events, to helping families build precious
   memories to look over for generations to come. 
-datePublished: '2016-06-28T18:51:41.152Z'
-dateModified: '2016-06-28T18:51:36.417Z'
-author: []
+datePublished: '2016-06-28T19:12:04.960Z'
+dateModified: '2016-06-28T19:10:32.989Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: ''
@@ -28,6 +30,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bef8bd73-9d04-4898-a1f0-c5c8dc5f1452.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/42e35dad4bff397de6fe89296573fd67/croprotate.jpg?cropheight=1048&cropwidth=1568&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbef8bd73-9d04-4898-a1f0-c5c8dc5f1452.jpg&x=0&y=0)
 
 Welcome! I'm Brandie- a freelance photographer and graphic designer with a passion for creating art. I try to capture the beauty in everyday life; everything from performances and events, to helping families build precious memories to look over for generations to come.
